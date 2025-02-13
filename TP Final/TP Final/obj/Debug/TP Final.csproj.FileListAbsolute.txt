@@ -1,0 +1,17 @@
+C:\Users\Usuar\AppData\Local\Temporary Projects\TP Final\bin\Debug\TP Final.exe.config
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\bin\Debug\TP Final.exe.config
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP Final.csprojResolveAssemblyReference.cache
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.InicioSesion.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.Interfaz.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.Properties.Resources.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP Final.csproj.GenerateResource.Cache
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\bin\Debug\TP Final.exe
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\bin\Debug\TP Final.pdb
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP Final.exe
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP Final.pdb
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.FormMenu.acercaDe.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.FormMenu.registro.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.FormMenu.mantenimiento.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.FormMenu.seguimientos.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.FormMenu.busqueda.resources
+C:\Users\Usuar\OneDrive\Documentos\AdoPet\TP Final\TP Final\obj\Debug\TP_Final.FormMenu.DatosAdicionales.resources
